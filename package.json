@@ -38,7 +38,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-snippet#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-snippet"
+    "url": "git+https://github.com/LXGIC-Studios/ai-snippet.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-snippet/issues"
