@@ -15,30 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "snippet",
-    "vscode",
-    "code",
-    "template",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
-    "nodejs",
-    "productivity",
-    "editor"
+    "claude",
+    "cli",
+    "code",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "editor",
+    "generative-ai",
+    "gpt",
+    "llm",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "snippet",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-snippet#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-snippet.git"
+    "url": "https://github.com/LXGIC-Studios/ai-snippet"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-snippet/issues"
