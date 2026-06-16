@@ -8,7 +8,7 @@
     "ai-snippet": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-snippet/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,26 +31,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-snippet#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-snippet",
   "keywords": [
-    "2026-standards",
-    "modern-seo",
-    "lxgic",
-    "AI-optimized",
-    "AI-powered",
-    "agentic-automation",
-    "ai",
-    "automation",
-    "best-practices",
-    "cli",
-    "dev-automation",
-    "developer-tools",
-    "performance",
-    "seo-tools",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "code-snippet",
+    "snippet-manager",
+    "productivity",
+    "reusable-code",
+    "gist"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -61,7 +48,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-snippet"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-snippet"
   },
   "scripts": {
     "build": "tsc"
