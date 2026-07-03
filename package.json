@@ -37,7 +37,9 @@
     "snippet-manager",
     "productivity",
     "reusable-code",
-    "gist"
+    "gist",
+    "technical-seo",
+    "seo-audit"
   ],
   "license": "MIT",
   "main": "dist/index.js",
